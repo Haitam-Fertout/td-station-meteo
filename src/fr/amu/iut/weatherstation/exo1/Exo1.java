@@ -12,7 +12,7 @@ public class Exo1 {
 
 
         try {
-            //noinspection InfiniteLoopStatement
+            //noinspection InfiniteLoopStatement.
             while (true){
                 System.out.println();
                 System.out.println("Weather station: polling sensors");
