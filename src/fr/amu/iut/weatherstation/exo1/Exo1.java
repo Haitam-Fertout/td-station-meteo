@@ -26,5 +26,6 @@ public class Exo1 {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+
     }
 }
